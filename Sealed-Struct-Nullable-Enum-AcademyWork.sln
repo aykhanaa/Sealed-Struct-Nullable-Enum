@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34601.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sealed-Struct-Nullable-Enum-AcademyWork", "Sealed-Struct-Nullable-Enum-AcademyWork\Sealed-Struct-Nullable-Enum-AcademyWork.csproj", "{BE59A193-38FC-4CAD-B2F1-6561D519AEA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE59A193-38FC-4CAD-B2F1-6561D519AEA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE59A193-38FC-4CAD-B2F1-6561D519AEA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE59A193-38FC-4CAD-B2F1-6561D519AEA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE59A193-38FC-4CAD-B2F1-6561D519AEA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AF48CE0-5728-47B0-975C-25EF9D279F6E}
+	EndGlobalSection
+EndGlobal

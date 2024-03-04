@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\C#\Sealed-Struct-Nullable-Enum\Sealed-Struct-Nullable-Enum-AcademyWork\Sealed-Struct-Nullable-Enum-AcademyWork\bin\Debug\net6.0\Sealed-Struct-Nullable-Enum-AcademyWork.exe
+C:\Users\Hp\Desktop\C#\Sealed-Struct-Nullable-Enum\Sealed-Struct-Nullable-Enum-AcademyWork\Sealed-Struct-Nullable-Enum-AcademyWork\bin\Debug\net6.0\Sealed-Struct-Nullable-Enum-AcademyWork.deps.json
+C:\Users\Hp\Desktop\C#\Sealed-Struct-Nullable-Enum\Sealed-Struct-Nullable-Enum-AcademyWork\Sealed-Struct-Nullable-Enum-AcademyWork\bin\Debug\net6.0\Sealed-Struct-Nullable-Enum-AcademyWork.runtimeconfig.json
+C:\Users\Hp\Desktop\C#\Sealed-Struct-Nullable-Enum\Sealed-Struct-Nullable-Enum-AcademyWork\Sealed-Struct-Nullable-Enum-AcademyWork\bin\Debug\net6.0\Sealed-Struct-Nullable-Enum-AcademyWork.dll
+C:\Users\Hp\Desktop\C#\Sealed-Struct-Nullable-Enum\Sealed-Struct-Nullable-Enum-AcademyWork\Sealed-Struct-Nullable-Enum-AcademyWork\bin\Debug\net6.0\Sealed-Struct-Nullable-Enum-AcademyWork.pdb
+C:\Users\Hp\Desktop\C#\Sealed-Struct-Nullable-Enum\Sealed-Struct-Nullable-Enum-AcademyWork\Sealed-Struct-Nullable-Enum-AcademyWork\obj\Debug\net6.0\Sealed-Struct-Nullable-Enum-AcademyWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\C#\Sealed-Struct-Nullable-Enum\Sealed-Struct-Nullable-Enum-AcademyWork\Sealed-Struct-Nullable-Enum-AcademyWork\obj\Debug\net6.0\Sealed-Struct-Nullable-Enum-AcademyWork.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\C#\Sealed-Struct-Nullable-Enum\Sealed-Struct-Nullable-Enum-AcademyWork\Sealed-Struct-Nullable-Enum-AcademyWork\obj\Debug\net6.0\Sealed-Struct-Nullable-Enum-AcademyWork.AssemblyInfo.cs
+C:\Users\Hp\Desktop\C#\Sealed-Struct-Nullable-Enum\Sealed-Struct-Nullable-Enum-AcademyWork\Sealed-Struct-Nullable-Enum-AcademyWork\obj\Debug\net6.0\Sealed-Struct-Nullable-Enum-AcademyWork.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\C#\Sealed-Struct-Nullable-Enum\Sealed-Struct-Nullable-Enum-AcademyWork\Sealed-Struct-Nullable-Enum-AcademyWork\obj\Debug\net6.0\Sealed-Struct-Nullable-Enum-AcademyWork.dll
+C:\Users\Hp\Desktop\C#\Sealed-Struct-Nullable-Enum\Sealed-Struct-Nullable-Enum-AcademyWork\Sealed-Struct-Nullable-Enum-AcademyWork\obj\Debug\net6.0\refint\Sealed-Struct-Nullable-Enum-AcademyWork.dll
+C:\Users\Hp\Desktop\C#\Sealed-Struct-Nullable-Enum\Sealed-Struct-Nullable-Enum-AcademyWork\Sealed-Struct-Nullable-Enum-AcademyWork\obj\Debug\net6.0\Sealed-Struct-Nullable-Enum-AcademyWork.pdb
+C:\Users\Hp\Desktop\C#\Sealed-Struct-Nullable-Enum\Sealed-Struct-Nullable-Enum-AcademyWork\Sealed-Struct-Nullable-Enum-AcademyWork\obj\Debug\net6.0\Sealed-Struct-Nullable-Enum-AcademyWork.genruntimeconfig.cache
+C:\Users\Hp\Desktop\C#\Sealed-Struct-Nullable-Enum\Sealed-Struct-Nullable-Enum-AcademyWork\Sealed-Struct-Nullable-Enum-AcademyWork\obj\Debug\net6.0\ref\Sealed-Struct-Nullable-Enum-AcademyWork.dll
